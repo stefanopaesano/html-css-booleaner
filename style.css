@@ -6,4 +6,6 @@ header {
 mark{
     background-color: yellow;
 }
-
+#contenitore{
+    text-align: left;
+}
