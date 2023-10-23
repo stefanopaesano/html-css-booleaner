@@ -1,4 +1,6 @@
 header {
-background-color: lightblue;
+    background-image: url("img/pattern.png");
+    background-color: lightblue;
+    height: 300px;
 }
 
